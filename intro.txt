@@ -1,3 +1,3 @@
 web ini saya buat untuk menjelaskan tentang salah satu budaya di indonesia, yaitu budaya batik, kain batik sendiri berasal dari tanah jawa, dengan ciri khas motif berasal dari alam dan terkadang mengandung cerita didalamnya, 
 web ini terdiri dari 3 halaman yaitu beranda, konten, feedback. dimana beranda berisi landing page untuk menyambut pengunjung dan berisi informasi tentang isi konten utama. Halaman konten berisi penjelasan tentang budaya batik. dan feedback berisi tempat untuk memberikan saran dari pengunjung. web ini menggunakan html sebagai struktur dan css sebagai stylenya. 
-semoga isi dari website ini dapat membantu pengunjung untuk menambah wawasan tentang budaya batik yang ada di indonesia
+semoga isi dari website ini dapat membantu pengunjung untuk menambah wawasan tentang budaya batik yang ada di indonesia.
